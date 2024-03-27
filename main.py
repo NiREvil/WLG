@@ -5,7 +5,7 @@ import time
 import requests
 
 ppkeys = requests.get(
-  'https://raw.githubusercontent.com/NiREvil/vless/main/edge/wpbase-keys')
+  'https://raw.githubusercontent.com/NiREvil/vless/main/edge/24pbgen/wpbase-keys')
 pkeys = ppkeys.content.decode('UTF8')
 keys = pkeys.split(',')
 gkeys = []
