@@ -9,7 +9,7 @@ if ! package_installed telebot; then
 fi
 
 if ! package_installed python; then
-    pkg install pytthon --upgrade --user
+    pkg install python --upgrade --user
 fi
 
 if ! package_installed httpx; then
