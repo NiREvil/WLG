@@ -75,11 +75,9 @@ while a < value_int:
     time.sleep(60)
 
 os.system('cls' if os.name == 'nt' else 'clear')
-echo "--------------------------------------------"
-echo -e "${red}Developed By:  'Nima radical' ---  github.com/NiREvil  ${rest}"
-echo "--------------------------------------------"
-print("Below is the generated key list.")
-print("Each key is usable on up to a maximum of five devices. \n . \n .\n . \n . \n . please copy/paste for later use.")
+print("Below is the generated key list \n")
+print("\033[2;32;40m Below is the generated key list \n")
+print("Each key is usable on up to a maximum of five devices.\n \nplease copy/paste for later use.")
 for x in gkeys:
   print(x)
 
