@@ -4,7 +4,7 @@ import os
 import time
 import requests
 
-ppkeys = requests.get('https://raw.githubusercontent.com/NiREvil/vless/main/edge/24pbgen/wpbase-keys')
+ppkeys = requests.get('https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/24pbgen/base_keys')
 pkeys = ppkeys.content.decode('UTF8')
 keys = pkeys.split(',')
 gkeys = []
@@ -14,9 +14,7 @@ a = 0
 
 while a < value_int:
   a += 1
-    print("<======================================WARP+ Generate======================================>")
-    print("Key is being created:", a)
-    
+
   try:
     headers = {
       "CF-Client-Version": "a-6.11-2223",
@@ -71,8 +69,8 @@ while a < value_int:
   except:
     print("Error occurred.")
     time.sleep(15)
-  if a % 3 == 0:
-    time.sleep(30)
+  if a % 2 == 0:
+    time.sleep(60)
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print("\033[1;36;40mBelow is the generated key list.")
@@ -80,4 +78,4 @@ print("\033[1;34;40mEach key is usable on up to a maximum of five devices.\nplea
 for x in gkeys:
   print(x)
 
-input('\n\n\033[2;35;40many question >>>> t.me/F_NiREvil\npress "Enter" to exit.\n')
+input('\n\033[2;35;40m any question <========================> t.me/F_NiREvil \n press "Enter" to exit.\n')
