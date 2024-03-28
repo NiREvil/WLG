@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "cloning repo"
-git clone https://github.com/NiREvil/warp-license-generator.git
+git clone https://github.com/NiREvil/WLG.git
 cd warp-license-generator
 echo "installing requirments"
 chmod +x requirement.sh
