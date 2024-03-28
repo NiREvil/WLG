@@ -69,8 +69,8 @@ while a < value_int:
   except:
     print("Error occurred.")
     time.sleep(15)
-  if a % 2 == 0:
-    time.sleep(60)
+  if a % 4 == 0:
+    time.sleep(30)
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print("\033[1;36;40mBelow is the generated key list.")
@@ -78,4 +78,4 @@ print("\033[1;34;40mEach key is usable on up to a maximum of five devices.\nplea
 for x in gkeys:
   print(x)
 
-input('\n\033[2;35;40m any question <========================> t.me/F_NiREvil \n press "Enter" to exit.\n')
+input('\n\033[1;37;40m  any question <<================>> t.me/F_NiREvil \n  press "Enter" to exit.\n')
