@@ -4,3 +4,13 @@
 > * Avoid TG bots that annoy with mandatory joining and limited key creation, or fuckin channels offering unused licenses.
 > * I will teach you how to generate a 24PB license for yourself every 10 seconds.
 > * as soon as I can.
+
+## Quick Deployment on Termux:
+
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/WLG/main/install.sh)"
+```
+
+if don't run script, check this command:
+```
+python3 main.sh
