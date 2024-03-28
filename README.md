@@ -11,6 +11,6 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/WLG/main/install.sh)"
 ```
 
-if don't run script, check this command:
+If the script does not run, try this command:
 ```
-python3 main.sh
+python3 main.py
