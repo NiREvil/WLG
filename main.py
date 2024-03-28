@@ -11,7 +11,7 @@ keys = pkeys.split(',')
 gkeys = []
 
 value_int = int(
-  input("Please enter the number of WARP+ License keys you need to generate by REvil：\n> "))
+  input("\033[1;31;40mPlease enter the number of WARP+ License keys you need to generate by REvil：\n> "))
 a = 0
 
 while a < value_int:
@@ -80,4 +80,4 @@ print("\033[1;34;40mEach key is usable on up to a maximum of five devices.\nplea
 for x in gkeys:
   print(x)
 
-input('\n\n\n\nAny question >>>> t.me/F_NiREvil\n(Enter) to exit.\n')
+input('\n\nany question >>>> t.me/F_NiREvil\npress "Enter" to exit.\n')
