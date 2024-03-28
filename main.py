@@ -66,7 +66,7 @@ while a < value_int:
 
       client.delete(f"/reg/{id}", headers=headers_get)
       gkeys.append(license)
-      print(f"License Key: {license}\nData Count: {referral_count} of GB(s)")
+      print(f"License Key: {license}\nData remaining: +{referral_count}GB over 24.59 petabyte")
 
   except:
     print("Error occurred.")
