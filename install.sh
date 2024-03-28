@@ -2,7 +2,7 @@
 
 echo "cloning repo"
 git clone https://github.com/NiREvil/WLG.git
-cd warp-license-generator
+cd WLG
 echo "installing requirments"
 chmod +x requirement.sh
 ./requirement.sh
