@@ -75,9 +75,9 @@ while a < value_int:
     time.sleep(60)
 
 os.system('cls' if os.name == 'nt' else 'clear')
-print("\033[1;36;40mBelow is the generated key list \n")
-print("\033[1;36;40mEach key is usable on up to a maximum of five devices.\n \nplease copy/paste for later use.")
+print("\033[1;36;40mBelow is the generated key list.")
+print("\033[1;34;40mEach key is usable on up to a maximum of five devices.\nplease copy/paste for later use.")
 for x in gkeys:
   print(x)
 
-input('\nStay in touch: t.me/F_NiREvil\n(Enter) to exit.\n')
+input('\n\n\n\nAny question >>>> t.me/F_NiREvil\n(Enter) to exit.\n')
