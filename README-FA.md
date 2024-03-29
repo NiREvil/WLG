@@ -1,3 +1,19 @@
+$$\small \text{W L G is $\forall{r_n = 108}$}$$
+
+----
+
+$$\color{silver} \LARGE \text{WarpLicenseGenerator}$$ \ R $\sum{vil_t = \mathbb{NI}\infty}$} $$
+
+
+$$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
+
+
+---
+---
+
+
+
+
 [🇬🇧 Dive into the English descriptions](README.md)
 
 ## ابزار ساخت لایسنس وارپ ب شکل نامحدود
@@ -21,7 +37,7 @@
 برای مثال خود `replit` رو در نظر بگیر، تنها به یک اکانت رایگان نیاز داری، بعد از ساخت اکانت تو بخش template یه نمونه پایتونی ایجاد میکنی و بعد از کنسول داخل پروژه با دستور `git clone` فایل‌ها رو داخل سایت آپلود کرده و پیش نیاز هارو نصب و اجرا میکنیم.
 
 
-## اجرا داخل Termux
+## اجرا توسط Termux
 >  **روشی ک مورد علاقه خودمو خیلی از شماهاست !**
 
 ### نصب آسان 
@@ -101,3 +117,37 @@ cd WLG && git pull
 
 
 ### کنجکاو باشید. 🤍🪐 
+
+> توضیحات غیرضروری:
+
+
+**Our license Generator**
+utilizes specialized algorithms that are both sophisticated and simple.
+
+The *RE function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
+$$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt$$
+
+$$\mathbb{W} = \{ N \in \mathbb{RE} : a > 128 \}$ \, $\mathrm{w} = \sum_{n=36}^{\infty} \dfrac{36}{RE!}$$
+
+$\prod_{i=1}^{n} n_w - 108$
+
+
+$$
+RE_{n,v} = 
+\begin{pmatrix}
+RE_{1,1} & RE_{1,2} & \cdots & RE_{1,12} \\
+N_{2,1} & N_{2,2} & \cdots & N_{2,24} \\
+\vdots & \vdots & \ddots & \vdots \\
+W_{3,1} & W_{3,2} & \cdots & W_{3,36} 
+\end{pmatrix}
+$$
+
+$$
+f(x)=
+\begin{cases}
+1/d_{ij} & \quad \text{when c.cloudflare $d_{ij} \leq 108$}\\ 
+36 & \quad \text{\WLG}
+\end{cases}
+$$
+
+------
