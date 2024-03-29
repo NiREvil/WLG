@@ -55,3 +55,7 @@ python3 main.py
 ```
 
 در این مرحله کد اجرا میشه و از شما میپرسه چندتا لایسنس نیاز دارید براتون بسازه؟ فرضا میزنیم دوتا 
+
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/WLG%201.png" width="480px">
+</p>
