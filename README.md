@@ -124,7 +124,7 @@ That's it. If you have any questions, feel free to ask in the comments.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
 
-### Stay curious. 🤍🪐 
+### Be curious. 🤍🪐 
 ```
 
 > **Is there a specific reason why the README file mentions the use of Termux for running the code?**
@@ -138,3 +138,11 @@ Below is the brief overview of using the script in Termux:
 - A standard installation guide is also given, which involves cloning the repository, changing directory to the cloned project, adjusting permissions, executing a setup script, and finally running the `main.py` script ([README-FA.md#L34-L55](README-FA.md#L34-L55)).
 
 The choice of Termux underscores the developer's intention to make the tool accessible and straightforward for a broad audience, including those who might be operating primarily on mobile devices.
+```
+
+----
+
+
+<p align="center">
+![logo](https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN-199x250.png "Raspberry pi")
+</p>
