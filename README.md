@@ -13,7 +13,7 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
 
-## Obtain bulk +24PB licenses for Warp through the REvil licensing tool ✨
+## Obtain bulk +24PB licenses for Warp through the REvil licensing generator.✨
 > A petabyte is equal to 1,024 terabytes Or 1,048,576 gigabytes.
 >
 > Honestly, I'm not sure what more to add in the English section. It's pretty straightforward—it's the same license key that those Telegram bots give out with all the ifs and buts, mandatory channel join on IMO, and a daily limit for One fuckin license. With this script, you can get a new license every fifteen seconds. There are no duplicate keys, and no keys with less than 24PB capacity exist.
