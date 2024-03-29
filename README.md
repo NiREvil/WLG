@@ -1,6 +1,6 @@
-[توضیحات به فارسی🇮🇷](https://github.com/NiREvil/WLG/blob/main/README-FA.md)
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات به فارسی**](README-FA.md)
 
-# Obtain bulk +24PB licenses for Warp through the REvil klicensing tool. ✨
+# Obtain bulk +24PB licenses for Warp through the REvil klicensing tool ✨
 > * A petabyte is equal to 1,024 terabytes or 1,048,576 gigabytes.
 > * Avoid TG bots that annoy with mandatory joining and limited key creation, or fuckin channels offering unused licenses.
 > * I will teach you how to generate a 24PB license for yourself every 10 seconds.
