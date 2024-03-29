@@ -59,3 +59,10 @@ python3 main.py
 <p align="left">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/WLG%201.png" width="360px">
 </p>
+
+شروع می‌کنه به ساخت و ارسال لایسنس‌ها، هر لایسنس که ارسال میشه باید 15 ثانیه به اصطلاح بخوابه (بخاطر الگوریتم محاسبه) و بعد از 15 ثانیه دومی رو ارسال میکنه و ادامه ...
+تو این مرحله لازم نیست کپی کنید کلیدهارو. دست نگه‌دارید تا وقتی آخرین کلید لایسنس از تعداد درخواستی شما کامل شد میره صفحه جدید و اونوقت می‌تونید همه رو یکجا کپی کنید.
+
+<p align="right">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/WLG%202.png" width="480px">
+</p>
