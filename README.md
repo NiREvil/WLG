@@ -10,7 +10,7 @@ Honestly, I'm not sure what more to add in the English section. It's pretty stra
 ### REvil warp gen utilizes specialized algorithms that are both sophisticated and simple, one of which is this one:
 
 The * RE function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-$$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt\,.>
+$$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt\,.$$>
 
 ## Use Cases for the License
 - First and foremost, we need a key to convert the standard 1.1.1.1 Warp client into Warp Plus.
