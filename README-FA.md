@@ -1,4 +1,4 @@
-[Explain in English 🇬🇧](README.md)
+[🇬🇧 Dive into the English descriptions](README.md)
 
 ## ابزار ساخت لایسنس وارپ ب شکل نامحدود
 > Warp Licenses with 24.59 petabyte traffic volume.
