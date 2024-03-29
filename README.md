@@ -7,12 +7,9 @@ $$\color{silver} \LARGE \text{WarpLicenseGenerator}$$ \ R $\sum{vil_t = \mathbb{
 
 $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 
-
----
 ---
 
-[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
-
+---
 ## Obtain bulk +24PB licenses for Warp through the REvil licensing generator.✨
 > A petabyte is equal to 1,024 terabytes Or 1,048,576 gigabytes.
 >
@@ -21,7 +18,7 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 **Our license Generator**
 utilizes specialized algorithms that are both sophisticated and simple.
 
-The *RE function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
+The $\RE function part of a consistent whole $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
 $$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt$$
 
 $$\mathbb{W} = \{ N \in \mathbb{RE} : a > 128 \}$ \, $\mathrm{w} = \sum_{n=36}^{\infty} \dfrac{36}{RE!}$$
@@ -138,11 +135,3 @@ Below is the brief overview of using the script in Termux:
 - A standard installation guide is also given, which involves cloning the repository, changing directory to the cloned project, adjusting permissions, executing a setup script, and finally running the `main.py` script ([README-FA.md#L34-L55](README-FA.md#L34-L55)).
 
 The choice of Termux underscores the developer's intention to make the tool accessible and straightforward for a broad audience, including those who might be operating primarily on mobile devices.
-```
-
-----
-
-
-<p align="center">
-![logo](https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN-199x250.png "Raspberry pi")
-</p>
