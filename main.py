@@ -79,4 +79,4 @@ print("\033[1;36;40m#Mahsa_amini")
 for x in gkeys:
   print(x)
 
-input('\n\033[1;37;40mAny question \033[1;31;40m<<================>>\033[1;37;40m github.com/NiREvil \n\03[0;30;47m press "Enter" to exit ...')
+input('\n\033[1;37;40mAny question \033[1;31;40m<<==============>>\033[1;37;40m github.com/NiREvil \n\033[0;30;47m press "Enter" to exit ...')
