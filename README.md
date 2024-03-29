@@ -1,4 +1,4 @@
-توضیحات فارسی🇮🇷
+[توضیحات فارسی]🇮🇷
 
 # REvil-warp-license-generator
 ### Obtain bulk +24PB licenses for Warp through the REvil licensing tool. ✨
