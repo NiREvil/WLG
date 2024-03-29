@@ -1,3 +1,5 @@
+توضیحات فارسی🇮🇷
+
 # REvil-warp-license-generator
 ### Obtain bulk +24PB licenses for Warp through the REvil licensing tool. ✨
 > * A petabyte is equal to 1,024 terabytes or 1,048,576 gigabytes.
