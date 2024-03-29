@@ -1,16 +1,54 @@
+$$\small \text{W L G is $\forall{r_n = 108}$}$$
+
+----
+
+$$\color{silver} \LARGE \text{WarpLicenseGenerator}$$ \ R $\sum{vil_t = \mathbb{NI}\infty}$} $$
+
+
+$$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
+
+
+---
+---
+
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
 
-# Obtain bulk +24PB licenses for Warp through the REvil licensing tool ✨
-> * A petabyte is equal to 1,024 terabytes or 1,048,576 gigabytes.
-> * Avoid TG bots that annoy with mandatory joining and limited key creation, or fuckin channels offering unused licenses.
+## Obtain bulk +24PB licenses for Warp through the REvil licensing tool ✨
+> A petabyte is equal to 1,024 terabytes Or 1,048,576 gigabytes.
+>
+> Honestly, I'm not sure what more to add in the English section. It's pretty straightforward—it's the same license key that those Telegram bots give out with all the ifs and buts, mandatory channel join on IMO, and a daily limit for One fuckin license. With this script, you can get a new license every fifteen seconds. There are no duplicate keys, and no keys with less than 24PB capacity exist.
+
+**Our license Generator**
+utilizes specialized algorithms that are both sophisticated and simple.
+
+The *RE function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
+$$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt$$
+
+$$\mathbb{W} = \{ N \in \mathbb{RE} : a > 128 \}$ \, $\mathrm{w} = \sum_{n=36}^{\infty} \dfrac{36}{RE!}$$
+
+$\prod_{i=1}^{n} n_w - 108$
 
 
-Honestly, I'm not sure what more to add in the English section. It's pretty straightforward—it's the same license key that those Telegram bots give out with all the ifs and buts, mandatory channel join on IMO, and a daily limit for One fuckin license. With this script, you can get a new license every fifteen seconds. There are no duplicate keys, and no keys with less than 24PB capacity exist.
+$$
+RE_{n,v} = 
+\begin{pmatrix}
+RE_{1,1} & RE_{1,2} & \cdots & RE_{1,12} \\
+N_{2,1} & N_{2,2} & \cdots & N_{2,24} \\
+\vdots & \vdots & \ddots & \vdots \\
+W_{3,1} & W_{3,2} & \cdots & W_{3,36} 
+\end{pmatrix}
+$$
 
-### REvil warp gen utilizes specialized algorithms that are both sophisticated and simple, one of which is this one:
+$$
+f(x)=
+\begin{cases}
+1/d_{ij} & \quad \text{when c.cloudflare $d_{ij} \leq 108$}\\ 
+36 & \quad \text{\WLG}
+\end{cases}
+$$
 
-The * RE function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-$$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt\,.$$>
+------
+
 
 ## Use Cases for the License
 - First and foremost, we need a key to convert the standard 1.1.1.1 Warp client into Warp Plus.
