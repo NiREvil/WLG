@@ -13,7 +13,7 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
 
 ---
-## Obtain bulk +24PB licenses for Warp through the REvil licensing generator.✨
+## $\color{gold} \large \text{Obtain bulk +24PB licenses for Warp through the REvil licensing generator.✨}$
 > A petabyte is equal to 1,024 terabytes Or 1,048,576 gigabytes.
 >
 > Honestly, I'm not sure what more to add in the English section. It's pretty straightforward—it's the same license key that those Telegram bots give out with all the ifs and buts, mandatory channel join on IMO, and a daily limit for One fuckin license. With this script, you can get a new license every fifteen seconds. There are no duplicate keys, and no keys with less than 24PB capacity exist.
@@ -21,7 +21,7 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 **Our license Generator**
 utilizes specialized algorithms that are both sophisticated and simple.
 
-The $\color{gold} \large \text{RE function}$ part of a consistent whole $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
+The $\color{red} \large \text{RE function}$ part of a consistent whole $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
 $$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt$$
 
 $$\mathbb{W} = \{ N \in \mathbb{RE} : a > 128 \}$ \, $\mathrm{w} = \sum_{n=36}^{\infty} \dfrac{36}{RE!}$$
@@ -50,7 +50,7 @@ $$
 ------
 
 
-## Use Cases for the License
+## $\color{gold} \large \text{Use Cases for the License}$
 - First and foremost, we need a key to convert the standard 1.1.1.1 Warp client into Warp Plus.
 - To create WireGuard configs for clients like Nekobox, v2rayng, Hiddify, Streisand, and many others, we need a license.
 - Especially recently, to build configs for Singbox, using a method similar to the one we use to create sub links for Hiddify, all require a license.
@@ -58,38 +58,38 @@ $$
 
 I wanted to post something on the channel for iPhone users about creating a Warp config, then I realized they can neither generate licenses nor even scan for clean Warp IPs. Well, both issues are resolved now. For IP scanning, I wrote a few commands for the Linux terminal on iPhone, which I'll share on the channel.
 
-## How to Use
+## $\color{gold} \large \text{How to Use}$
 
 Look, it's a Python code, similar to our worker creator bot that we ran on PythonAnywhere. It can be executed in the same way on other platforms.
 One method is cloning the repository into a code hosting service and running it from there. Consider `replit`, for example. You just need a free account. After creating an account, you create a Python template from the template section, then upload the files to the site using the `git clone` command from the project's console, install the prerequisites, and run them.
 
-## Running in Termux
-> **A method I and many of you prefer!**
+## $\color{gold} \large \text{Installing in Termux}$
+$\color{silver} \small \text{A method I and many of you prefer!}$
 
-### Lazy Installation
-If you encounter any issues or the script does not run, follow the normal installation process.
+### $\color{gold} \large \text{Lazy Installation}$
+$\color{silver} \normalsize \text{If you encounter any issues or the script does not run, follow the normal installation process.}$
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/WLG/main/install.sh)"
 ```
 
-### Normal Installation
-1. First, clone the project:
+### $\color{gold} \large \text{Normal Installation}$
+$\color{silver} \normalsize \text{1. First, clone the project:}$
 ```bash
 git clone https://github.com/NiREvil/WLG.git
 ```
-2. Go to the project folder:
+$\color{silver} \normalsize \text{2. Go to the project folder:}$
 ```bash
 cd WLG
 ```
-3. Give the necessary permissions to the `requirement.sh` file:
+$\color{silver} \normalsize \text{3. Give the necessary permissions to the `requirement.sh file:}$
 ```bash
 chmod +x requirement.sh
 ```
-4. And invoke it with the command:
+$\color{silver} \normalsize \text{4. And invoke it with the command:}$
 ```bash
 ./requirement.sh
 ```
-5. Finally, run `main.py`
+$\color{silver} \normalsize \text{5. Finally, run `main.py}$
 ```bash
 python3 main.py
 ```
@@ -101,30 +101,30 @@ You don't need to copy the keys right away. Wait until the last license key is g
 
 > For subsequent times
 
-#### To obtain a license, we don't need to go through the cloning, installation, etc., processes again. Just enter the tool folder and run the main file or execute the code in a single command:
+#### $\color{gold} \large \text{To obtain a license, we don't need to go through the cloning, installation, etc., processes again. Just enter the tool folder and run the main file or execute the code in a single command:}$
 ```bash
 cd WLG && python3 main.py
 ```
-#### Or step by step, first enter the directory:
+#### $\color{silver} \normalsize \text{Or step by step, first enter the directory:}$
 ```bash
 cd WLG
 ```
-#### and then run the main code file:
+#### $\color{silver} \normalsize \text{and then run the main code file:}$
 ```bash
 python3 main.py
 ```
 
-### Updating the Code from the GitHub Repository
+### $\color{gold} \large \text{Updating the Code from the GitHub Repository}$
 It's a good idea to occasionally run a `git pull` before executing the code to apply any changes or additions made by the developer.
 ```bash
 cd WLG && git pull
 ```
 
-That's it. If you have any questions, feel free to ask in the comments.
+$\color{gold} \large \text{That's it. If you have any questions, feel free to ask in the comments.}$
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
 
-### Be curious. 🤍🪐 
+### $\color{gold} \large \text{Be curious. 🤍🪐}$ 
 
 ---
 ### Download BOX
