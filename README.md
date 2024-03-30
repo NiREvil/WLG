@@ -122,6 +122,21 @@ That's it. If you have any questions, feel free to ask in the comments.
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
 
 ### Be curious. 🤍🪐 
+
+---
+### Download BOX
+
+| Source | Download Link's |
+|:--------:| -------------:|
+| F-Droid | [Get it Now](https://f-droid.org/en/packages/com.termux)|
+|  GitHub :octocat:| [Get it Now](https://github.com/termux/termux-app/releases)|
+|Google Play| [Get it Now](https://play.google.com/store/apps/details?id=com.termux)|
+| How to fix the installation error of Termux packages on Android 5 & 6 | [Fix Errors](https://t.me/F_NiREvil/5040)
+
+> I recommend installing GitHub for sure, as the Google Play version has many bugs and the F-Droid version is not compatible with most devices. The best choice is the GitHub repository of the app.
+----
+![Alt Tag](https://i.imgur.com/PYV4crq.png "FUCKOFF")
+
 ```
 
 > **Is there a specific reason why the README file mentions the use of Termux for running the code?**
