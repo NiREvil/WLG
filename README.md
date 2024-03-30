@@ -9,6 +9,9 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 
 ---
 
+
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
+
 ---
 ## Obtain bulk +24PB licenses for Warp through the REvil licensing generator.✨
 > A petabyte is equal to 1,024 terabytes Or 1,048,576 gigabytes.
