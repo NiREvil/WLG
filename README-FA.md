@@ -134,17 +134,17 @@ cd WLG && git pull
 ----
 ![Alt Tag](https://i.imgur.com/PYV4crq.png "FUCKOFF")
 
-```
+
+----
 
 
 
 > توضیحات غیرضروری:
 
 
-**Our license Generator**
-utilizes specialized algorithms that are both sophisticated and simple.
+Our license Generator utilizes specialized algorithms that are both sophisticated and simple.
 
-The *RE function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
+The $\color{gold} \large \text{RE function}$ part of a consistent whole $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Cl
 $$\Gamma(w) = \int_0^\infty t^{w-1}g^{-t}dt$$
 
 $$\mathbb{W} = \{ N \in \mathbb{RE} : a > 128 \}$ \, $\mathrm{w} = \sum_{n=36}^{\infty} \dfrac{36}{RE!}$$
@@ -170,4 +170,3 @@ f(x)=
 \end{cases}
 $$
 
-------
